@@ -77,6 +77,6 @@ Este projeto está sob a licença MIT.
 Leandro Alves 👋🏾
 
 <div style="display: flex;">
-  <a href="https://www.linkedin.com/in/leandro-alves-0bb58b117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leandro-alves-francisco-0bb58b117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
   <a href="https://www.instagram.com/leandropastore33/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
